@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any open source project for the community.**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/adeeb-khoja/](https://www.linkedin.com/in/adeeb-khoja/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/adeeb-khoja/)
 
 - 💬 Ask me about **backend development and system design.**
 
