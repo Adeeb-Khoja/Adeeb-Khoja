@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeeb Khoja</h1>
-<h3 align="center">An experienced Software Engineer with 4 years of experience.</h3>
+<h3 align="center">An experienced Software Engineer since 2020.</h3>
 
 - 🔭 I’m currently working at [Tick'it](https://tickit.co/organizer)
 
